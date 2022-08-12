@@ -1,10 +1,7 @@
 # Class Assignment 01
 ## Overview and Origin
 
---
-
-
-* The Company I selected for this Assignment is **iComply Investor Services** that primarily deals in AML Compliance Solutions among other associated services. It was  incorporated on *September 11, 2017* by ***Matthew Unger, Qayyum Rajan*** and ***Matt Masiar***. The founders aimed at making the Canadian financial markets more transparent, stable, safe, and systematic while ensuring that the compliance mechanisms are affordable and easily accessible to all. Their vision is guided by the recent developments in this domain and the need for enhanced security against the malicious actors. As per Crunchbase, iComply Investor Services Inc. has successfully obtained a ***total funding of $2.7M*** until *July 2022*. Their latest investment deal was in *December 17, 2021* from a Non-equity Assistance round involving around 8 investors including **VU Venture Partners** and **J. Taylor Crandall** among others.
+* **iComply Investor Services**, based out of British Columbia, Canada, was incorporated on September 11, 2027 and primarily deals in AML Compliance Solutions among other associated services. It's founder members were ***Matthew Unger, Qayyum Rajan*** and ***Matt Masiar***. The trio aimed at making the Canadian financial markets more transparent, stable, safe, and systematic while ensuring that the compliance mechanisms are affordable and easily accessible to all. Their vision is guided by the recent developments in this domain and the need for enhanced security against the malicious actors. As per Crunchbase, iComply Investor Services Inc. has successfully obtained a ***total funding of $2.7M*** until *July 2022*. Their latest investment deal was in *December 17, 2021* from a Non-equity Assistance round involving around 8 investors including **VU Venture Partners** and **J. Taylor Crandall** among others.
 
 
 ## Business Activities:
