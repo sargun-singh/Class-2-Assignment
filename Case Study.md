@@ -1,0 +1,29 @@
+# Class Assignment 01
+## Overview and Origin
+
+* **iComply Investor Services**, based out of British Columbia, Canada, was incorporated on September 11, 2027 and primarily deals in AML Compliance Solutions among other associated services. It's founder members were ***Matthew Unger, Qayyum Rajan*** and ***Matt Masiar***. The trio aimed at making the Canadian financial markets more transparent, stable, safe, and systematic while ensuring that the compliance mechanisms are affordable and easily accessible to all. Their vision is guided by the recent developments in this domain and the need for enhanced security against the malicious actors. As per Crunchbase, iComply Investor Services Inc. has successfully obtained a ***total funding of $2.7M*** until *July 2022*. Their latest investment deal was in *December 17, 2021* from a Non-equity Assistance round involving around 8 investors including **VU Venture Partners** and **J. Taylor Crandall** among others.
+
+## Business Activities:
+
+* The company aims at launching futuristic Digital RegTech Solutions like *Prefacto*, and *iComply KYC* for KYC, AML, Digital Identity, and Privacy Compliance while reducing costs of compliance for all financial intermediaries while replacing the traditional methods of compliance and the out-dated methods of monitoring financial systems across Canada. They also strive to bring more transparency and integrity in the financial markets to benefit the end customers to build confidence and volume of trading and financial transactions. IComply aims at creating solutions primarily for large and medium level enterprises including financial institutions like Comply Advantage, Deloitte, Microsoft, Miller Thomson, GrantThornton, and Vistra to name a few.
+
+* iComply claims Verification on the Edge mechanism that provides enhanced validations, authentications and encryption solutions. They also claim to be industry leaders in security token issuance, transfer management, and compliance solutions. Price Advantage of one of the lowest compliance solutions and with a network of more than 50 countries and their surveillance mechanisms. iComply Investor Services Inc. is actively using 46 technologies for its website, (Source: BuiltWith) including but not limited to *Viewport Meta*, *IPhone / Mobile Compatible*, and *SPF*.
+
+## Landscape:
+
+* iComply Investor Services is involved in the Canadian RegTech industry. As per the recent reports by iMarc, the reports claim that the global RegTech market reached a value of ***US$ 8.7 Billion*** in 2021, while Canadian companies attracted ***C$1 billion*** in funding between 2015 and 2019. They project this to reach ***US$ 29.2 Billion*** by 2027, estimating an avergage increase of 22.7% during 2022-2027. While these figures may have impacted due to the disruptions of the Covid and other global issues. While Canadian competitors include **Blockchain Financial Crime Center**, US firms like **Protiviti, CertiK, Chainalysis,** and **Bakkt** among others have been around for longer period and have had much larger impact on the global RegTech domain. Canadian competitors have successfully developed their products to match the US AML RegTech products. 
+
+## Results
+
+* iComply claims to have successfully reduced the compliance costs by 30% over the span of last 5 years and claims to be market leader in Canada in many compliance solutions. While the industry claims to work hand in hand to reduce compliance costs, the competitors have often developed their products on latest technology to incorporate the latest malware counterportions. Among the core metrics that companies in this domain use, profits remain the best parameter to calculate the success factor of the companies. Also, the companies' market share also maps their success. iComply has fought hard to remain competitive and offer unique solutions to make sure it's client base remains loyal to them and reach out to larger market base. The company has a lot of large financial institutions under it's client's list. They claim to have provided several ‘market-first’ solutions in the past few years.
+
+
+## Recommendations
+
+* If I were to advise the company, I have observed that the company has limited access to the global compliance systems and therefore, it will be more benefitial if they can focus their approach more to the Europe, Asia and Pacific nations among others. Additionally, they have limited funding available. If they can gain more funders, it will be better for the company's future prospects. Various other companies including US and European competitors have better outreach to their clients as they are more global in their approach. iComply while has networking with over 50 countries, it has operations limited to North America, France and Indonesia. The iComply uses iphone and Google as their platforms apart from Apple and Windows platforms. These technologies will be helpful to the growth of the companies's solutions as they will help build a more robust mechanism with the advancements in the Artifical Intelligence and Machine Learning domains. The fast improving AI and ML technology will help build better solutions for all companies involved in this domain as they will have be successful in eliminating the humain biasness from the compliance mechanism along with the problem of human errors, that can be minimized by the use of the AI and ML. The AI and ML will be able to successfully implement more complex mechanisms.  
+
+Citations
+Crunchbase.com for Financial profile and Funding information of iComply https://www.crunchbase.com/organization/icomply-investor-services-inc
+BlockData.com for profiling of iComply https://www.blockdata.tech/profiles/icomply
+iComply Official Website https://icomplyis.com/
+https://www.imarcgroup.com/regtech-market
